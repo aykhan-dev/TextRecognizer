@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TextRecognizer</string>
+
+    <string name="add_image">Add Image</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="home_page_label">Extracted Texts</string>
+    <string name="settings">Settings</string>
+    <string name="dialog_title">What do you want?</string>
+    <string name="dialog_message">You can choose one of the options which you see below</string>
+    <string name="close">Close</string>
+    <string name="delete">Delete</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="copied">Copied</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="reading_exception">Cannot read text on the image</string>
+    <string name="error_message">An error occurred</string>
+
+</resources>

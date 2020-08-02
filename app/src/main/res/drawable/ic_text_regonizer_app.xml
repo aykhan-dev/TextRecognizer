@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+  <path
+      android:pathData="M50,0L462,0A50,50 0,0 1,512 50L512,462A50,50 0,0 1,462 512L50,512A50,50 0,0 1,0 462L0,50A50,50 0,0 1,50 0z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="M287.8,298H222.8L210.4,328H177.2L239.6,188H271.6L334.2,328H300.2L287.8,298ZM277.6,273.4L255.4,219.8L233.2,273.4H277.6Z"
+      android:fillColor="#6200EE"/>
+  <path
+      android:pathData="M110,100L190,100A10,10 0,0 1,200 110L200,110A10,10 0,0 1,190 120L110,120A10,10 0,0 1,100 110L100,110A10,10 0,0 1,110 100z"
+      android:fillColor="#6200EE"/>
+  <path
+      android:pathData="M100,190L100,110A10,10 0,0 1,110 100L110,100A10,10 0,0 1,120 110L120,190A10,10 0,0 1,110 200L110,200A10,10 0,0 1,100 190z"
+      android:fillColor="#6200EE"/>
+  <path
+      android:pathData="M402,412L322,412A10,10 0,0 1,312 402L312,402A10,10 0,0 1,322 392L402,392A10,10 0,0 1,412 402L412,402A10,10 0,0 1,402 412z"
+      android:fillColor="#6200EE"/>
+  <path
+      android:pathData="M412,322L412,402A10,10 0,0 1,402 412L402,412A10,10 0,0 1,392 402L392,322A10,10 0,0 1,402 312L402,312A10,10 0,0 1,412 322z"
+      android:fillColor="#6200EE"/>
+  <path
+      android:pathData="M412,110L412,190A10,10 0,0 1,402 200L402,200A10,10 0,0 1,392 190L392,110A10,10 0,0 1,402 100L402,100A10,10 0,0 1,412 110z"
+      android:fillColor="#6200EE"/>
+  <path
+      android:pathData="M322,100L402,100A10,10 0,0 1,412 110L412,110A10,10 0,0 1,402 120L322,120A10,10 0,0 1,312 110L312,110A10,10 0,0 1,322 100z"
+      android:fillColor="#6200EE"/>
+  <path
+      android:pathData="M100,402L100,322A10,10 0,0 1,110 312L110,312A10,10 0,0 1,120 322L120,402A10,10 0,0 1,110 412L110,412A10,10 0,0 1,100 402z"
+      android:fillColor="#6200EE"/>
+  <path
+      android:pathData="M190,412L110,412A10,10 0,0 1,100 402L100,402A10,10 0,0 1,110 392L190,392A10,10 0,0 1,200 402L200,402A10,10 0,0 1,190 412z"
+      android:fillColor="#6200EE"/>
+</vector>

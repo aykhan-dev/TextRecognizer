@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="add_image">Şəkil Əlavə Et</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="home_page_label">Çıxarılmış Mətnlər</string>
+    <string name="settings">Tənzimləmələr</string>
+    <string name="dialog_title">Seçimlər</string>
+    <string name="dialog_message">Aşağıda göstərilən seçimlərdən birini seçə bilərsiniz</string>
+    <string name="close">Bağla</string>
+    <string name="delete">Sil</string>
+    <string name="copy">Kopyala</string>
+    <string name="share">Paylaş</string>
+    <string name="copied">Kopyalandı</string>
+    <string name="no_internet_connection">İnternet əlaqəsi yoxdur</string>
+    <string name="reading_exception">Şəkildəki mətn oxuna bilmədi</string>
+    <string name="error_message">Xəta baş verdi</string>
+
+</resources>
